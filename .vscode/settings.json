@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/home/alex/anaconda3/envs/test_bot/bin/python3.8",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
